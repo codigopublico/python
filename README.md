@@ -1,1 +1,3 @@
 # python
+Cada programa tiene su propia carpeta.
+
